@@ -60,4 +60,4 @@ Email: jeremiah2498@gmail.com
 
 ## Webpage Screenshot
     
-![Webpage screenshot displaying a list of games.](client\src\assets\screenshot.png)
+![Webpage screenshot displaying a list of games.](client/src/assets/screenshot.png)
